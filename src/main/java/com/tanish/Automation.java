@@ -84,6 +84,8 @@ public class Automation {
 		ArrayList tabs=new ArrayList(driver.getWindowHandles());
 		driver.switchTo().window((String) tabs.get(1));
 		
+		
+		
 		Thread.sleep(4000);
 		
 		driver.findElement(By.xpath("/html/body/div[1]/div/div[3]/div[2]/div[1]/div[1]/div[2]/div/ul/li[1]/button")).click();
