@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59408" started-at="2019-09-29T13:42:05Z" finished-at="2019-09-29T13:43:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59408" started-at="2019-09-29T13:42:05Z" finished-at="2019-09-29T13:43:04Z">
+      <class name="com.tanish.Automation">
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.tanish.Automation@e45eb6]" name="browser" is-config="true" duration-ms="32519" started-at="2019-09-29T19:12:05Z" finished-at="2019-09-29T19:12:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="testTititle()[pri:0, instance:com.tanish.Automation@e45eb6]" name="testTititle" duration-ms="23" started-at="2019-09-29T19:12:37Z" finished-at="2019-09-29T19:12:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTititle -->
+        <test-method status="PASS" signature="takePicture()[pri:0, instance:com.tanish.Automation@e45eb6]" name="takePicture" is-config="true" duration-ms="533" started-at="2019-09-29T19:12:37Z" finished-at="2019-09-29T19:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takePicture -->
+        <test-method status="PASS" signature="login()[pri:1, instance:com.tanish.Automation@e45eb6]" name="login" duration-ms="24212" started-at="2019-09-29T19:12:38Z" finished-at="2019-09-29T19:13:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="takePicture()[pri:0, instance:com.tanish.Automation@e45eb6]" name="takePicture" is-config="true" duration-ms="404" started-at="2019-09-29T19:13:02Z" finished-at="2019-09-29T19:13:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takePicture -->
+        <test-method status="PASS" signature="mouseAction()[pri:2, instance:com.tanish.Automation@e45eb6]" name="mouseAction" duration-ms="174" started-at="2019-09-29T19:13:03Z" finished-at="2019-09-29T19:13:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseAction -->
+        <test-method status="PASS" signature="takePicture()[pri:0, instance:com.tanish.Automation@e45eb6]" name="takePicture" is-config="true" duration-ms="388" started-at="2019-09-29T19:13:03Z" finished-at="2019-09-29T19:13:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takePicture -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.tanish.Automation@e45eb6]" name="afterTest" is-config="true" duration-ms="1118" started-at="2019-09-29T19:13:03Z" finished-at="2019-09-29T19:13:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.tanish.Automation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
